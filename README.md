@@ -1,5 +1,4 @@
-# something
-video course / course files /  code fragment
-/*
-love encourage us
-*/
+# codefragment
+是什么？  遇到的部分代码
+为什么？  温故知新
+怎么做？  摘撷出特殊结构和形式，重要部分
